@@ -1,5 +1,5 @@
 # joiasCode
-Project - JoiasCode - Trabalha do Bootcamp (Generation Brasil)
+-Projeto desenvolvido em PORTUGOL - IDE: PORTUGOL STUDIO - JoiasCode - Trabalho do Bootcamp (Generation Brasil)
 
 Projeto inicial sobre lógica de programação, feito no PortugolStudio. Tema e-commerce.
 
